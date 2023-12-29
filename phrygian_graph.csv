@@ -1,0 +1,11 @@
+head,relation,tail
+_CAD:Phrygian,_HAS,_CHORD_1st:min
+_CAD:Phrygian,_HAS,_CHORD_2nd:min
+_CHORD_1st:min,_HAS_ROOT_PC,_ROOT_PC:10
+_CHORD_1st:min,_HAS_TYPE,_TYPE:min
+_TYPE:min,_HAS_TYPE_PC,_TYPE_PC:3
+_TYPE:min,_HAS_TYPE_PC,_TYPE_PC:7
+_CHORD_2nd:min,_HAS_ROOT,_ROOT_PC:0
+_CHORD_2nd:min,_HAS_TYPE,_TYPE:min
+_TYPE:min,_HAS_TYPE_PC,_TYPE_PC:3
+_TYPE:min,_HAS_TYPE_PC,_TYPE_PC:7

@@ -1,0 +1,12 @@
+head,relation,tail
+_CAD:Perfect,_HAS,_CHORD_1st:dominant7
+_CAD:Perfect,_HAS,_CHORD_2nd:maj
+_CHORD_1st:dominant7,_HAS_ROOT_PC,_ROOT_PC:7
+_CHORD_1st:dominant7,_HAS_TYPE,_TYPE:dominant7
+_TYPE:dominant7,_HAS_TYPE_PC,_TYPE_PC:4
+_TYPE:dominant7,_HAS_TYPE_PC,_TYPE_PC:7
+_TYPE:dominant7,_HAS_TYPE_PC,_TYPE_PC:10
+_CHORD_2nd:maj,_HAS_ROOT,_ROOT_PC:0
+_CHORD_2nd:maj,_HAS_TYPE,_TYPE:maj
+_TYPE:maj,_HAS_TYPE_PC,_TYPE_PC:4
+_TYPE:maj,_HAS_TYPE_PC,_TYPE_PC:7
